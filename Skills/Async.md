@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop u
-  - `try..catch` u
-  - Non-blocking k
-  - Async I/O u
-  - Thread pool k
-  - Pattern Reactor h
-  - CAS operations h
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🎓 known
+  - Async I/O: 🖐️ used
+  - Thread pool: 🎓 known
+  - Pattern Reactor: 👂 heard
+  - CAS operations: 👂 heard
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks k
-  - Live locks k
-  - Concurrent programming u
-  - Parallel programming u
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model
-  - Thread u
-  - Process h
+  - Thread: 🖐️ used
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks u
-  - Callback-last-error-first u
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🖐️ used
   - Thenable
-  - Promise k
-  - Async/await u
+  - Promise: 🎓 known
+  - Async/await: 🖐️ used
   - Future
   - Deferred
-  - Sync generator h
-  - Async Generator h
-  - Async Iterator h
-  - Event k
-  - Coroutine h
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🎓 known
+  - Coroutine: 👂 heard
   - Goroutine
-  - Signal k
-  - Stream k
+  - Signal: 🎓 known
+  - Stream: 🎓 known
   - Chain of responsibility
-  - Middleware h
-  - Locks k
+  - Middleware: 👂 heard
+  - Locks: 🎓 known
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,26 +47,26 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter k
-  - Observable/Observer k
-  - Readable k
-  - Writable k
-  - Transform h
-  - Async Pool k
-  - Async Queue k
-  - Async Collector k
-  - Semaphore u
-  - Mutex u
+  - EventEmitter: 🎓 known
+  - Observable/Observer: 🎓 known
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 👂 heard
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
+  - Async Collector: 🎓 known
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers k
+  - Timers: 🎓 known
   - `setImmediate`
   - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics k
+  - Atomics: 🎓 known
   - High resolution clock
   - Callback hell
   - Promise hell

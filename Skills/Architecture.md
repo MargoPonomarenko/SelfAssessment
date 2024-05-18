@@ -1,31 +1,31 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components u
-  - Directories u
-  - GRASP h
-  - SOLID u
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code h
+  - Multiparadigm code: 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage u
-  - Cohesion k
-  - Coupling k
+  - Code coverage: 🖐️ used
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
   - Cyclomatic complexity
-  - Reliability u
-  - Quality u
-  - Availability u
-  - Flexibility u
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL) k
+  - Domain-specific language (DSL): 🎓 known
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
@@ -33,7 +33,7 @@
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture k
+  - Clean architecture: 🎓 known
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -43,15 +43,15 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram u
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation k
+  - Budget estimation: 🎓 known
   - Distributed systems
   - High-intensive computing
-  - Load balancing k
-  - Gateways k
+  - Load balancing: 🎓 known
+  - Gateways: 🎓 known
   - On-premises
   - IaaS
   - PaaS
@@ -61,16 +61,16 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS) k
-  - Solution visions k
-  - Solution capabilities k
-  - System design k
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 🎓 known
+  - Solution capabilities: 🎓 known
+  - System design: 🎓 known
   - Process modelling
-  - Data modelling k
-  - Solution components k
-  - Risk assessment k
-  - Non Functional Requirements (NFR) k
-  - Clouds k
+  - Data modelling: 🎓 known
+  - Solution components: 🎓 known
+  - Risk assessment: 🎓 known
+  - Non Functional Requirements (NFR): 🎓 known
+  - Clouds: 🎓 known
   - BPMN
   - Low-code
   - No-code
@@ -80,21 +80,21 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs k
+  - Understanding business needs: 🎓 known
   - Enterprise strategy
-  - Integration with subsystems k
-  - Enterprise vision k
-  - Enterprise capabilities k
-  - Project scope k
+  - Integration with subsystems: 🎓 known
+  - Enterprise vision: 🎓 known
+  - Enterprise capabilities: 🎓 known
+  - Project scope: 🎓 known
   - Enterprise service bus
-  - Service-oriented architecture h
-  - Microservices k
+  - Service-oriented architecture: 👂 heard
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence h
+  - Business Intelligence: 👂 heard
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance k
-  - Engineering Hygiene h
+  - Quality assurance: 🎓 known
+  - Engineering Hygiene: 👂 heard

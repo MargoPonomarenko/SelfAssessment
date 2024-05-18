@@ -1,137 +1,136 @@
 ## C++
 
 - Basic Operations
-  - Arithmetic Operators e
-  - Logical Operators e
-  - Bitwise Operators u
-  - Loops: for/while e
+  - Arithmetic Operators: 🙋 explained
+  - Logical Operators: 🙋 explained
+  - Bitwise Operators: 🖐️ used
+  - Loops: for/while: 🙋 explained
 - Functions and Operators
-  - Functions e
-  - Operator Overloading u
-  - Lambda Expressions u
+  - Functions: 🙋 explained
+  - Operator Overloading: 🖐️ used
+  - Lambda Expressions: 🖐️ used
 - Data Types and Typing
-  - Data Types e
-  - RTTI u
-  - Dynamic Typing u
-  - Static Typing u
+  - Data Types: 🙋 explained
+  - RTTI: 🖐️ used
+  - Dynamic Typing: 🖐️ used
+  - Static Typing: 🖐️ used
 - Pointers and References
-  - weak_ptr k
-  - shared_ptr u
-  - unique_ptr u
-  - References e
-  - Pointers vs References e
-  - New/delete Operators e
-  - Memory Leakage e
+  - weak_ptr: 🎓 known
+  - shared_ptr: 🖐️ used
+  - unique_ptr: 🖐️ used
+  - References: 🙋 explained
+  - Pointers vs References: 🙋 explained
+  - New/delete Operators: 🙋 explained
+  - Memory Leakage: 🙋 explained
 - Memory Management
-  - Memory Model e
-  - Lifetime of Objects e
+  - Memory Model: 🙋 explained
+  - Lifetime of Objects: 🙋 explained
 - Structuring Codebase
-  - Code Splitting: Headers / CPP Files e
-  - Scope e
-  - Forward Declaration e
-  - Namespaces e
+  - Code Splitting: Headers / CPP Files: 🙋 explained
+  - Scope: 🙋 explained
+  - Forward Declaration: 🙋 explained
+  - Namespaces: 🙋 explained
 - Structures and Classes
-  - Structures vs Classes e
-  - Rule of Zero, Five, Three k
-  - Object-Oriented Programming e
+  - Structures vs Classes: 🙋 explained
+  - Rule of Zero, Five, Three: 🎓 known
+  - Object-Oriented Programming: 🙋 explained
 - Polymorphism
-  - Static Polymorphism u
-  - Dynamic Polymorphism u
-  - Virtual Methods u
-  - Virtual Tables u
-  - Abstract Classes u
+  - Static Polymorphism: 🖐️ used
+  - Dynamic Polymorphism: 🖐️ used
+  - Virtual Methods: 🖐️ used
+  - Virtual Tables: 🖐️ used
+  - Abstract Classes: 🖐️ used
 - Inheritance
-  - Single Inheritance u
-  - Multiple Inheritance u
-  - Diamond Problem k
-  - Virtual Inheritance u
+  - Single Inheritance: 🖐️ used
+  - Multiple Inheritance: 🖐️ used
+  - Diamond Problem: 🎓 known
+  - Virtual Inheritance: 🖐️ used
 - Exception Handling
-  - Basics of Exception Handling u
-  - try, catch, throw u
-  - Standard Exceptions u
-  - Custom Exceptions u
-  - Access Violations u
-  - Exit Codes u
+  - Basics of Exception Handling: 🖐️ used
+  - try, catch, throw: 🖐️ used
+  - Standard Exceptions: 🖐️ used
+  - Custom Exceptions: 🖐️ used
+  - Access Violations: 🖐️ used
+  - Exit Codes: 🖐️ used
 - Advanced Topics
-  - Templates u
-  - Function Templates u
-  - Class Templates u
-  - Variadic Templates k
-  - Full Template Specialization u
-  - Type Traits k
-  - SFINAE (Substitution Failure Is Not An Error) k
+  - Templates: 🖐️ used
+  - Function Templates: 🖐️ used
+  - Class Templates: 🖐️ used
+  - Variadic Templates: 🎓 known
+  - Full Template Specialization: 🖐️ used
+  - Type Traits: 🎓 known
+  - SFINAE (Substitution Failure Is Not An Error): 🎓 known
 - Standard Template Library
-  - Containers u
-  - Iterators u
-  - Algorithms u
-  - iostream u
-  - Date / Time u
+  - Containers: 🖐️ used
+  - Iterators: 🖐️ used
+  - Algorithms: 🖐️ used
+  - iostream: 🖐️ used
+  - Date / Time: 🖐️ used
 - Concurrency and Multithreading
-  - Thread Management u
-  - Mutexes and Locks u
-  - Condition Variables u
-  - Atomic Operations u
+  - Thread Management: 🖐️ used
+  - Mutexes and Locks: 🖐️ used
+  - Condition Variables: 🖐️ used
+  - Atomic Operations: 🖐️ used
 - File Handling
-  - File Streams u
-  - File I/O Operations u
+  - File Streams: 🖐️ used
+  - File I/O Operations: 🖐️ used
 - Language Concepts
-  - auto u
-  - static_cast u
-  - const_cast u
-  - dynamic_cast u
-  - reinterpret_cast k
-  - Undefined Behavior k
-  - Argument Dependent Lookup k
-  - Name Mangling h
-  - Macros u
+  - auto: 🖐️ used
+  - static_cast: 🖐️ used
+  - const_cast: 🖐️ used
+  - dynamic_cast: 🖐️ used
+  - reinterpret_cast: 🎓 known
+  - Undefined Behavior: 🎓 known
+  - Argument Dependent Lookup: 🎓 known
+  - Name Mangling: 👂 heard
+  - Macros: 🖐️ used
 - Idioms
-  - RAII u
-  - Pimpl u
-  - CRTP k
-  - Non-Copyable/Non-Movable h
-  - Erase-Remove k
-  - Copy and Swap u
-  - Copy on Write k
+  - RAII: 🖐️ used
+  - Pimpl: 🖐️ used
+  - CRTP: 🎓 known
+  - Non-Copyable/Non-Movable: 👂 heard
+  - Erase-Remove: 🎓 known
+  - Copy and Swap: 🖐️ used
+  - Copy on Write: 🎓 known
 - Standards
-  - C++11/14 u
-  - C++17 u
-  - C++20 k
-  - Newest h
-  - C++0x h
+  - C++11/14: 🖐️ used
+  - C++17: 🖐️ used
+  - C++20: 🎓 known
+  - Newest: 👂 heard
+  - C++0x: 👂 heard
 - Debugging and Testing
-  - Debugging Techniques u
-  - Understanding Debugger Messages k
-  - Debugging Symbols u
-  - WinDBg u
-  - GDB u
-  - Google Test (gtest) u
-  - Catch2 u
+  - Debugging Techniques: 🖐️ used
+  - Understanding Debugger Messages: 🎓 known
+  - Debugging Symbols: 🖐️ used
+  - WinDBg: 🖐️ used
+  - GDB: 🖐️ used
+  - Google Test (gtest): 🖐️ used
+  - Catch2: 🖐️ used
 - Compilers and Build Systems
-  - Understand Compiler Stages k
-  - Clang++/LLVM h
-  - Intel C++ h
-  - MSVS C++ u
-  - GCC u
-  - MinGW h
-  - CMake u
-  - Makefile u
+  - Understand Compiler Stages: 🎓 known
+  - Clang++/LLVM: 👂 heard
+  - Intel C++: 👂 heard
+  - MSVS C++: 🖐️ used
+  - GCC: 🖐️ used
+  - MinGW: 👂 heard
+  - CMake: 🖐️ used
+  - Makefile: 🖐️ used
 - Package Managers
-  - vcpkg u
-  - Conan h
-  - Spack h
-  - NuGet u
+  - vcpkg: 🖐️ used
+  - Conan: 👂 heard
+  - Spack: 👂 heard
+  - NuGet: 🖐️ used
 - Working with Libraries
-  - Library Inclusion u
-  - Boost k
-  - POCO k
-  - gRPC h
-  - pybind11 h
-  - OpenCL h
-  - OpenCV k
-  - protobuf k
-  - tensorflow k
+  - Library Inclusion: 🖐️ used
+  - Boost: 🎓 known
+  - POCO: 🎓 known
+  - gRPC: 👂 heard
+  - pybind11: 👂 heard
+  - OpenCL: 👂 heard
+  - OpenCV: 🎓 known
+  - protobuf: 🎓 known
+  - tensorflow: 🎓 known
 - Frameworks
-  - gtest/gmock u
-  - Qt u
-  - Catch2 k
-  - PyTorch C++ k
+  - gtest/gmock: 🖐️ used
+  - Qt: 🖐️ used
+  - PyTorch C++: 🎓 known
