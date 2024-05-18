@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
+  - Event loop u
+  - `try..catch` u
+  - Non-blocking k
+  - Async I/O u
+  - Thread pool k
+  - Pattern Reactor h
+  - CAS operations h
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Dead locks k
+  - Live locks k
+  - Concurrent programming u
+  - Parallel programming u
   - Actor Model
-  - Thread
-  - Process
+  - Thread u
+  - Process h
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks u
+  - Callback-last-error-first u
   - Thenable
-  - Promise
-  - Async/await
+  - Promise k
+  - Async/await u
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
+  - Sync generator h
+  - Async Generator h
+  - Async Iterator h
+  - Event k
+  - Coroutine h
   - Goroutine
-  - Signal
-  - Stream
+  - Signal k
+  - Stream k
   - Chain of responsibility
-  - Middleware
-  - Locks
+  - Middleware h
+  - Locks k
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,26 +47,26 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
+  - EventEmitter k
+  - Observable/Observer k
+  - Readable k
+  - Writable k
+  - Transform h
+  - Async Pool k
+  - Async Queue k
+  - Async Collector k
+  - Semaphore u
+  - Mutex u
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers k
   - `setImmediate`
   - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics k
   - High resolution clock
   - Callback hell
   - Promise hell
