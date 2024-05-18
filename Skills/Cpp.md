@@ -1,0 +1,137 @@
+## C++
+
+- Basic Operations
+  - Arithmetic Operators e
+  - Logical Operators e
+  - Bitwise Operators u
+  - Loops: for/while e
+- Functions and Operators
+  - Functions e
+  - Operator Overloading u
+  - Lambda Expressions u
+- Data Types and Typing
+  - Data Types e
+  - RTTI u
+  - Dynamic Typing u
+  - Static Typing u
+- Pointers and References
+  - weak_ptr k
+  - shared_ptr u
+  - unique_ptr u
+  - References e
+  - Pointers vs References e
+  - New/delete Operators e
+  - Memory Leakage e
+- Memory Management
+  - Memory Model e
+  - Lifetime of Objects e
+- Structuring Codebase
+  - Code Splitting: Headers / CPP Files e
+  - Scope e
+  - Forward Declaration e
+  - Namespaces e
+- Structures and Classes
+  - Structures vs Classes e
+  - Rule of Zero, Five, Three k
+  - Object-Oriented Programming e
+- Polymorphism
+  - Static Polymorphism u
+  - Dynamic Polymorphism u
+  - Virtual Methods u
+  - Virtual Tables u
+  - Abstract Classes u
+- Inheritance
+  - Single Inheritance u
+  - Multiple Inheritance u
+  - Diamond Problem k
+  - Virtual Inheritance u
+- Exception Handling
+  - Basics of Exception Handling u
+  - try, catch, throw u
+  - Standard Exceptions u
+  - Custom Exceptions u
+  - Access Violations u
+  - Exit Codes u
+- Advanced Topics
+  - Templates u
+  - Function Templates u
+  - Class Templates u
+  - Variadic Templates k
+  - Full Template Specialization u
+  - Type Traits k
+  - SFINAE (Substitution Failure Is Not An Error) k
+- Standard Template Library
+  - Containers u
+  - Iterators u
+  - Algorithms u
+  - iostream u
+  - Date / Time u
+- Concurrency and Multithreading
+  - Thread Management u
+  - Mutexes and Locks u
+  - Condition Variables u
+  - Atomic Operations u
+- File Handling
+  - File Streams u
+  - File I/O Operations u
+- Language Concepts
+  - auto u
+  - static_cast u
+  - const_cast u
+  - dynamic_cast u
+  - reinterpret_cast k
+  - Undefined Behavior k
+  - Argument Dependent Lookup k
+  - Name Mangling h
+  - Macros u
+- Idioms
+  - RAII u
+  - Pimpl u
+  - CRTP k
+  - Non-Copyable/Non-Movable h
+  - Erase-Remove k
+  - Copy and Swap u
+  - Copy on Write k
+- Standards
+  - C++11/14 u
+  - C++17 u
+  - C++20 k
+  - Newest h
+  - C++0x h
+- Debugging and Testing
+  - Debugging Techniques u
+  - Understanding Debugger Messages k
+  - Debugging Symbols u
+  - WinDBg u
+  - GDB u
+  - Google Test (gtest) u
+  - Catch2 u
+- Compilers and Build Systems
+  - Understand Compiler Stages k
+  - Clang++/LLVM h
+  - Intel C++ h
+  - MSVS C++ u
+  - GCC u
+  - MinGW h
+  - CMake u
+  - Makefile u
+- Package Managers
+  - vcpkg u
+  - Conan h
+  - Spack h
+  - NuGet u
+- Working with Libraries
+  - Library Inclusion u
+  - Boost k
+  - POCO k
+  - gRPC h
+  - pybind11 h
+  - OpenCL h
+  - OpenCV k
+  - protobuf k
+  - tensorflow k
+- Frameworks
+  - gtest/gmock u
+  - Qt u
+  - Catch2 k
+  - PyTorch C++ k
