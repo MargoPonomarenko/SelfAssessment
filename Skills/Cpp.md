@@ -1,0 +1,136 @@
+## C++
+
+- Basic Operations
+  - Arithmetic Operators: 🙋 explained
+  - Logical Operators: 🙋 explained
+  - Bitwise Operators: 🖐️ used
+  - Loops: for/while: 🙋 explained
+- Functions and Operators
+  - Functions: 🙋 explained
+  - Operator Overloading: 🖐️ used
+  - Lambda Expressions: 🖐️ used
+- Data Types and Typing
+  - Data Types: 🙋 explained
+  - RTTI: 🖐️ used
+  - Dynamic Typing: 🖐️ used
+  - Static Typing: 🖐️ used
+- Pointers and References
+  - weak_ptr: 🎓 known
+  - shared_ptr: 🖐️ used
+  - unique_ptr: 🖐️ used
+  - References: 🙋 explained
+  - Pointers vs References: 🙋 explained
+  - New/delete Operators: 🙋 explained
+  - Memory Leakage: 🙋 explained
+- Memory Management
+  - Memory Model: 🙋 explained
+  - Lifetime of Objects: 🙋 explained
+- Structuring Codebase
+  - Code Splitting: Headers / CPP Files: 🙋 explained
+  - Scope: 🙋 explained
+  - Forward Declaration: 🙋 explained
+  - Namespaces: 🙋 explained
+- Structures and Classes
+  - Structures vs Classes: 🙋 explained
+  - Rule of Zero, Five, Three: 🎓 known
+  - Object-Oriented Programming: 🙋 explained
+- Polymorphism
+  - Static Polymorphism: 🖐️ used
+  - Dynamic Polymorphism: 🖐️ used
+  - Virtual Methods: 🖐️ used
+  - Virtual Tables: 🖐️ used
+  - Abstract Classes: 🖐️ used
+- Inheritance
+  - Single Inheritance: 🖐️ used
+  - Multiple Inheritance: 🖐️ used
+  - Diamond Problem: 🎓 known
+  - Virtual Inheritance: 🖐️ used
+- Exception Handling
+  - Basics of Exception Handling: 🖐️ used
+  - try, catch, throw: 🖐️ used
+  - Standard Exceptions: 🖐️ used
+  - Custom Exceptions: 🖐️ used
+  - Access Violations: 🖐️ used
+  - Exit Codes: 🖐️ used
+- Advanced Topics
+  - Templates: 🖐️ used
+  - Function Templates: 🖐️ used
+  - Class Templates: 🖐️ used
+  - Variadic Templates: 🎓 known
+  - Full Template Specialization: 🖐️ used
+  - Type Traits: 🎓 known
+  - SFINAE (Substitution Failure Is Not An Error): 🎓 known
+- Standard Template Library
+  - Containers: 🖐️ used
+  - Iterators: 🖐️ used
+  - Algorithms: 🖐️ used
+  - iostream: 🖐️ used
+  - Date / Time: 🖐️ used
+- Concurrency and Multithreading
+  - Thread Management: 🖐️ used
+  - Mutexes and Locks: 🖐️ used
+  - Condition Variables: 🖐️ used
+  - Atomic Operations: 🖐️ used
+- File Handling
+  - File Streams: 🖐️ used
+  - File I/O Operations: 🖐️ used
+- Language Concepts
+  - auto: 🖐️ used
+  - static_cast: 🖐️ used
+  - const_cast: 🖐️ used
+  - dynamic_cast: 🖐️ used
+  - reinterpret_cast: 🎓 known
+  - Undefined Behavior: 🎓 known
+  - Argument Dependent Lookup: 🎓 known
+  - Name Mangling: 👂 heard
+  - Macros: 🖐️ used
+- Idioms
+  - RAII: 🖐️ used
+  - Pimpl: 🖐️ used
+  - CRTP: 🎓 known
+  - Non-Copyable/Non-Movable: 👂 heard
+  - Erase-Remove: 🎓 known
+  - Copy and Swap: 🖐️ used
+  - Copy on Write: 🎓 known
+- Standards
+  - C++11/14: 🖐️ used
+  - C++17: 🖐️ used
+  - C++20: 🎓 known
+  - Newest: 👂 heard
+  - C++0x: 👂 heard
+- Debugging and Testing
+  - Debugging Techniques: 🖐️ used
+  - Understanding Debugger Messages: 🎓 known
+  - Debugging Symbols: 🖐️ used
+  - WinDBg: 🖐️ used
+  - GDB: 🖐️ used
+  - Google Test (gtest): 🖐️ used
+  - Catch2: 🖐️ used
+- Compilers and Build Systems
+  - Understand Compiler Stages: 🎓 known
+  - Clang++/LLVM: 👂 heard
+  - Intel C++: 👂 heard
+  - MSVS C++: 🖐️ used
+  - GCC: 🖐️ used
+  - MinGW: 👂 heard
+  - CMake: 🖐️ used
+  - Makefile: 🖐️ used
+- Package Managers
+  - vcpkg: 🖐️ used
+  - Conan: 👂 heard
+  - Spack: 👂 heard
+  - NuGet: 🖐️ used
+- Working with Libraries
+  - Library Inclusion: 🖐️ used
+  - Boost: 🎓 known
+  - POCO: 🎓 known
+  - gRPC: 👂 heard
+  - pybind11: 👂 heard
+  - OpenCL: 👂 heard
+  - OpenCV: 🎓 known
+  - protobuf: 🎓 known
+  - tensorflow: 🎓 known
+- Frameworks
+  - gtest/gmock: 🖐️ used
+  - Qt: 🖐️ used
+  - PyTorch C++: 🎓 known
